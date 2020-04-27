@@ -1,0 +1,244 @@
+{
+    "_Internal": {
+        "PromiseImpl": {}
+    },
+    "PlatformType": {
+        "PC": "PC",
+        "OfficeOnline": "OfficeOnline",
+        "Mac": "Mac",
+        "iOS": "iOS",
+        "Android": "Android",
+        "Universal": "Universal"
+    },
+    "HostType": {
+        "Word": "Word",
+        "Excel": "Excel",
+        "PowerPoint": "PowerPoint",
+        "Outlook": "Outlook",
+        "OneNote": "OneNote",
+        "Project": "Project",
+        "Access": "Access",
+        "Visio": "Visio"
+    },
+    "FeatureGates": {},
+    "InitializationReason": {
+        "Inserted": "inserted",
+        "DocumentOpened": "documentOpened"
+    },
+    "ValueFormat": {
+        "Unformatted": "unformatted"
+    },
+    "FilterType": {
+        "All": "all"
+    },
+    "Parameters": {
+        "BindingType": "bindingType",
+        "CoercionType": "coercionType",
+        "ValueFormat": "valueFormat",
+        "FilterType": "filterType",
+        "Columns": "columns",
+        "SampleData": "sampleData",
+        "GoToType": "goToType",
+        "SelectionMode": "selectionMode",
+        "Id": "id",
+        "PromptText": "promptText",
+        "ItemName": "itemName",
+        "FailOnCollision": "failOnCollision",
+        "StartRow": "startRow",
+        "StartColumn": "startColumn",
+        "RowCount": "rowCount",
+        "ColumnCount": "columnCount",
+        "Callback": "callback",
+        "AsyncContext": "asyncContext",
+        "Data": "data",
+        "Rows": "rows",
+        "OverwriteIfStale": "overwriteIfStale",
+        "FileType": "fileType",
+        "EventType": "eventType",
+        "Handler": "handler",
+        "SliceSize": "sliceSize",
+        "SliceIndex": "sliceIndex",
+        "ActiveView": "activeView",
+        "Status": "status",
+        "PlatformType": "platformType",
+        "HostType": "hostType",
+        "ForceConsent": "forceConsent",
+        "ForceAddAccount": "forceAddAccount",
+        "AuthChallenge": "authChallenge",
+        "AllowConsentPrompt": "allowConsentPrompt",
+        "ForMSGraphAccess": "forMSGraphAccess",
+        "AllowSignInPrompt": "allowSignInPrompt",
+        "Reserved": "reserved",
+        "Tcid": "tcid",
+        "Xml": "xml",
+        "Namespace": "namespace",
+        "Prefix": "prefix",
+        "XPath": "xPath",
+        "Text": "text",
+        "ImageLeft": "imageLeft",
+        "ImageTop": "imageTop",
+        "ImageWidth": "imageWidth",
+        "ImageHeight": "imageHeight",
+        "TaskId": "taskId",
+        "FieldId": "fieldId",
+        "FieldValue": "fieldValue",
+        "ServerUrl": "serverUrl",
+        "ListName": "listName",
+        "ResourceId": "resourceId",
+        "ViewType": "viewType",
+        "ViewName": "viewName",
+        "GetRawValue": "getRawValue",
+        "CellFormat": "cellFormat",
+        "TableOptions": "tableOptions",
+        "TaskIndex": "taskIndex",
+        "ResourceIndex": "resourceIndex",
+        "CustomFieldId": "customFieldId",
+        "Url": "url",
+        "MessageHandler": "messageHandler",
+        "Width": "width",
+        "Height": "height",
+        "RequireHTTPs": "requireHTTPS",
+        "MessageToParent": "messageToParent",
+        "DisplayInIframe": "displayInIframe",
+        "MessageContent": "messageContent",
+        "HideTitle": "hideTitle",
+        "UseDeviceIndependentPixels": "useDeviceIndependentPixels",
+        "PromptBeforeOpen": "promptBeforeOpen",
+        "EnforceAppDomain": "enforceAppDomain",
+        "UrlNoHostInfo": "urlNoHostInfo",
+        "AppCommandInvocationCompletedData": "appCommandInvocationCompletedData",
+        "Base64": "base64",
+        "FormId": "formId",
+        "DocumentTheme": "documentTheme",
+        "OfficeTheme": "officeTheme"
+    },
+    "ApplicationMode": {
+        "WebEditor": "webEditor",
+        "WebViewer": "webViewer",
+        "Client": "client"
+    },
+    "DocumentMode": {
+        "ReadOnly": "readOnly",
+        "ReadWrite": "readWrite"
+    },
+    "context": {
+        "contentLanguage": "zh-CN",
+        "displayLanguage": "zh-CN",
+        "touchEnabled": false,
+        "commerceAllowed": true,
+        "host": "PowerPoint",
+        "platform": "PC",
+        "isDialog": false,
+        "diagnostics": {
+            "host": "PowerPoint",
+            "version": "16.0.11929.20708",
+            "platform": "PC"
+        },
+        "license": {
+            "value": ""
+        },
+        "ui": {},
+        "auth": {},
+        "application": {},
+        "document": {
+            "settings": {},
+            "mode": "readWrite",
+            "url": "C:\\Users\\django\\ownCloud\\ProjB\\Office Add-In 开发环境搭建内训.pptx"
+        },
+        "officeTheme": {
+            "bodyBackgroundColor": "#e6e6e6",
+            "bodyForegroundColor": "#444444",
+            "controlBackgroundColor": "#fdfdfd",
+            "controlForegroundColor": "#444444"
+        },
+        "requirements": {
+            "_setMap": {
+                "_sets": {
+                    "dialogapi": "1.1",
+                    "identityapi": "1.1",
+                    "openbrowserwindowapi": "1.1",
+                    "executetcidapi": "1.1",
+                    "activeview": "1.1",
+                    "compressedfile": "1.1",
+                    "documentevents": "1.1",
+                    "file": "1.1",
+                    "imagecoercion": "1.2",
+                    "pdffile": "1.1",
+                    "powerpointapi": "1.1",
+                    "selection": "1.1",
+                    "settings": "1.1",
+                    "textcoercion": "1.1",
+                    "addincommands": "1.1",
+                    "firstpartyauthentication": "1.2",
+                    "telemetry": "1.2"
+                }
+            }
+        }
+    },
+    "AsyncResultStatus": {
+        "Succeeded": "succeeded",
+        "Failed": "failed"
+    },
+    "CoercionType": {
+        "Text": "text",
+        "SlideRange": "slideRange",
+        "Html": "html",
+        "Ooxml": "ooxml",
+        "OoxmlPackage": "ooxmlPackage",
+        "PdfFile": "pdf",
+        "Image": "image",
+        "XmlSvg": "xmlSvg"
+    },
+    "GoToType": {
+        "Slide": "slide",
+        "Index": "index"
+    },
+    "SelectionMode": {
+        "Default": "default",
+        "Selected": "selected",
+        "None": "none"
+    },
+    "Index": {
+        "First": "first",
+        "Last": "last",
+        "Next": "next",
+        "Previous": "previous"
+    },
+    "EventType": {
+        "DialogMessageReceived": "dialogMessageReceived",
+        "DialogEventReceived": "dialogEventReceived",
+        "DialogParentMessageReceived": "dialogParentMessageReceived",
+        "DialogParentEventReceived": "dialogParentEventReceived",
+        "SettingsChanged": "settingsChanged",
+        "OfficeThemeChanged": "officeThemeChanged",
+        "DocumentThemeChanged": "documentThemeChanged",
+        "DocumentSelectionChanged": "documentSelectionChanged",
+        "ObjectDeleted": "objectDeleted",
+        "ObjectSelectionChanged": "objectSelectionChanged",
+        "ObjectDataChanged": "objectDataChanged",
+        "ContentControlAdded": "contentControlAdded",
+        "ActiveViewChanged": "activeViewChanged",
+        "AppCommandInvoked": "appCommandInvoked",
+        "RichApiMessage": "richApiMessage"
+    },
+    "FileType": {
+        "Text": "text",
+        "Compressed": "compressed",
+        "Pdf": "pdf"
+    },
+    "ActiveView": {
+        "Read": "read",
+        "Edit": "edit"
+    },
+    "license": {},
+    "VisibilityMode": {
+        "hidden": "Hidden",
+        "taskpane": "Taskpane"
+    },
+    "StartupBehavior": {
+        "none": "None",
+        "load": "Load"
+    },
+    "addin": {},
+    "ribbon": {}
+}

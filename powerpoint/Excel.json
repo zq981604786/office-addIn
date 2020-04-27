@@ -1,0 +1,1911 @@
+{
+    "icons": {
+        "threeArrows": [
+            {
+                "set": "ThreeArrows",
+                "index": 0
+            },
+            {
+                "set": "ThreeArrows",
+                "index": 1
+            },
+            {
+                "set": "ThreeArrows",
+                "index": 2
+            }
+        ],
+        "threeArrowsGray": [
+            {
+                "set": "ThreeArrowsGray",
+                "index": 0
+            },
+            {
+                "set": "ThreeArrowsGray",
+                "index": 1
+            },
+            {
+                "set": "ThreeArrowsGray",
+                "index": 2
+            }
+        ],
+        "threeFlags": [
+            {
+                "set": "ThreeFlags",
+                "index": 0
+            },
+            {
+                "set": "ThreeFlags",
+                "index": 1
+            },
+            {
+                "set": "ThreeFlags",
+                "index": 2
+            }
+        ],
+        "threeTrafficLights1": [
+            {
+                "set": "ThreeTrafficLights1",
+                "index": 0
+            },
+            {
+                "set": "ThreeTrafficLights1",
+                "index": 1
+            },
+            {
+                "set": "ThreeTrafficLights1",
+                "index": 2
+            }
+        ],
+        "threeTrafficLights2": [
+            {
+                "set": "ThreeTrafficLights2",
+                "index": 0
+            },
+            {
+                "set": "ThreeTrafficLights2",
+                "index": 1
+            },
+            {
+                "set": "ThreeTrafficLights2",
+                "index": 2
+            }
+        ],
+        "threeSigns": [
+            {
+                "set": "ThreeSigns",
+                "index": 0
+            },
+            {
+                "set": "ThreeSigns",
+                "index": 1
+            },
+            {
+                "set": "ThreeSigns",
+                "index": 2
+            }
+        ],
+        "threeSymbols": [
+            {
+                "set": "ThreeSymbols",
+                "index": 0
+            },
+            {
+                "set": "ThreeSymbols",
+                "index": 1
+            },
+            {
+                "set": "ThreeSymbols",
+                "index": 2
+            }
+        ],
+        "threeSymbols2": [
+            {
+                "set": "ThreeSymbols2",
+                "index": 0
+            },
+            {
+                "set": "ThreeSymbols2",
+                "index": 1
+            },
+            {
+                "set": "ThreeSymbols2",
+                "index": 2
+            }
+        ],
+        "fourArrows": [
+            {
+                "set": "FourArrows",
+                "index": 0
+            },
+            {
+                "set": "FourArrows",
+                "index": 1
+            },
+            {
+                "set": "FourArrows",
+                "index": 2
+            },
+            {
+                "set": "FourArrows",
+                "index": 3
+            }
+        ],
+        "fourArrowsGray": [
+            {
+                "set": "FourArrowsGray",
+                "index": 0
+            },
+            {
+                "set": "FourArrowsGray",
+                "index": 1
+            },
+            {
+                "set": "FourArrowsGray",
+                "index": 2
+            },
+            {
+                "set": "FourArrowsGray",
+                "index": 3
+            }
+        ],
+        "fourRedToBlack": [
+            {
+                "set": "FourRedToBlack",
+                "index": 0
+            },
+            {
+                "set": "FourRedToBlack",
+                "index": 1
+            },
+            {
+                "set": "FourRedToBlack",
+                "index": 2
+            },
+            {
+                "set": "FourRedToBlack",
+                "index": 3
+            }
+        ],
+        "fourRating": [
+            {
+                "set": "FourRating",
+                "index": 0
+            },
+            {
+                "set": "FourRating",
+                "index": 1
+            },
+            {
+                "set": "FourRating",
+                "index": 2
+            },
+            {
+                "set": "FourRating",
+                "index": 3
+            }
+        ],
+        "fourTrafficLights": [
+            {
+                "set": "FourTrafficLights",
+                "index": 0
+            },
+            {
+                "set": "FourTrafficLights",
+                "index": 1
+            },
+            {
+                "set": "FourTrafficLights",
+                "index": 2
+            },
+            {
+                "set": "FourTrafficLights",
+                "index": 3
+            }
+        ],
+        "fiveArrows": [
+            {
+                "set": "FiveArrows",
+                "index": 0
+            },
+            {
+                "set": "FiveArrows",
+                "index": 1
+            },
+            {
+                "set": "FiveArrows",
+                "index": 2
+            },
+            {
+                "set": "FiveArrows",
+                "index": 3
+            },
+            {
+                "set": "FiveArrows",
+                "index": 4
+            }
+        ],
+        "fiveArrowsGray": [
+            {
+                "set": "FiveArrowsGray",
+                "index": 0
+            },
+            {
+                "set": "FiveArrowsGray",
+                "index": 1
+            },
+            {
+                "set": "FiveArrowsGray",
+                "index": 2
+            },
+            {
+                "set": "FiveArrowsGray",
+                "index": 3
+            },
+            {
+                "set": "FiveArrowsGray",
+                "index": 4
+            }
+        ],
+        "fiveRating": [
+            {
+                "set": "FiveRating",
+                "index": 0
+            },
+            {
+                "set": "FiveRating",
+                "index": 1
+            },
+            {
+                "set": "FiveRating",
+                "index": 2
+            },
+            {
+                "set": "FiveRating",
+                "index": 3
+            },
+            {
+                "set": "FiveRating",
+                "index": 4
+            }
+        ],
+        "fiveQuarters": [
+            {
+                "set": "FiveQuarters",
+                "index": 0
+            },
+            {
+                "set": "FiveQuarters",
+                "index": 1
+            },
+            {
+                "set": "FiveQuarters",
+                "index": 2
+            },
+            {
+                "set": "FiveQuarters",
+                "index": 3
+            },
+            {
+                "set": "FiveQuarters",
+                "index": 4
+            }
+        ],
+        "threeStars": [
+            {
+                "set": "ThreeStars",
+                "index": 0
+            },
+            {
+                "set": "ThreeStars",
+                "index": 1
+            },
+            {
+                "set": "ThreeStars",
+                "index": 2
+            }
+        ],
+        "threeTriangles": [
+            {
+                "set": "ThreeTriangles",
+                "index": 0
+            },
+            {
+                "set": "ThreeTriangles",
+                "index": 1
+            },
+            {
+                "set": "ThreeTriangles",
+                "index": 2
+            }
+        ],
+        "fiveBoxes": [
+            {
+                "set": "FiveBoxes",
+                "index": 0
+            },
+            {
+                "set": "FiveBoxes",
+                "index": 1
+            },
+            {
+                "set": "FiveBoxes",
+                "index": 2
+            },
+            {
+                "set": "FiveBoxes",
+                "index": 3
+            },
+            {
+                "set": "FiveBoxes",
+                "index": 4
+            }
+        ]
+    },
+    "_RedirectV1APIs": false,
+    "_V1APIMap": {
+        "GetDataAsync": {},
+        "GetSelectedDataAsync": {},
+        "GoToByIdAsync": {},
+        "AddColumnsAsync": {},
+        "AddFromSelectionAsync": {},
+        "AddFromNamedItemAsync": {},
+        "AddFromPromptAsync": {},
+        "AddRowsAsync": {},
+        "GetByIdAsync": {},
+        "ReleaseByIdAsync": {},
+        "GetAllAsync": {},
+        "DeleteAllDataValuesAsync": {},
+        "SetSelectedDataAsync": {},
+        "SetDataAsync": {},
+        "SetFormatsAsync": {},
+        "SetTableOptionsAsync": {},
+        "ClearFormatsAsync": {},
+        "GetFilePropertiesAsync": {}
+    },
+    "_CC": {
+        "office10EventIdBindingSelectionChangedEvent": 3,
+        "office10EventIdBindingDataChangedEvent": 4,
+        "office10EventIdDocumentSelectionChangedEvent": 2,
+        "office10EventIdRichApiMessageEvent": 5,
+        "office10EventIdSettingsChangedEvent": 1
+    },
+    "PivotFilterTopBottomCriterion": {
+        "invalid": "Invalid",
+        "topItems": "TopItems",
+        "topPercent": "TopPercent",
+        "topSum": "TopSum",
+        "bottomItems": "BottomItems",
+        "bottomPercent": "BottomPercent",
+        "bottomSum": "BottomSum"
+    },
+    "SortBy": {
+        "ascending": "Ascending",
+        "descending": "Descending"
+    },
+    "AggregationFunction": {
+        "unknown": "Unknown",
+        "automatic": "Automatic",
+        "sum": "Sum",
+        "count": "Count",
+        "average": "Average",
+        "max": "Max",
+        "min": "Min",
+        "product": "Product",
+        "countNumbers": "CountNumbers",
+        "standardDeviation": "StandardDeviation",
+        "standardDeviationP": "StandardDeviationP",
+        "variance": "Variance",
+        "varianceP": "VarianceP"
+    },
+    "ShowAsCalculation": {
+        "unknown": "Unknown",
+        "none": "None",
+        "percentOfGrandTotal": "PercentOfGrandTotal",
+        "percentOfRowTotal": "PercentOfRowTotal",
+        "percentOfColumnTotal": "PercentOfColumnTotal",
+        "percentOfParentRowTotal": "PercentOfParentRowTotal",
+        "percentOfParentColumnTotal": "PercentOfParentColumnTotal",
+        "percentOfParentTotal": "PercentOfParentTotal",
+        "percentOf": "PercentOf",
+        "runningTotal": "RunningTotal",
+        "percentRunningTotal": "PercentRunningTotal",
+        "differenceFrom": "DifferenceFrom",
+        "percentDifferenceFrom": "PercentDifferenceFrom",
+        "rankAscending": "RankAscending",
+        "rankDecending": "RankDecending",
+        "index": "Index"
+    },
+    "PivotAxis": {
+        "unknown": "Unknown",
+        "row": "Row",
+        "column": "Column",
+        "data": "Data",
+        "filter": "Filter"
+    },
+    "AxisType": {
+        "invalid": "Invalid",
+        "category": "Category",
+        "value": "Value",
+        "series": "Series"
+    },
+    "AxisGroup": {
+        "primary": "Primary",
+        "secondary": "Secondary"
+    },
+    "AxisScaleType": {
+        "linear": "Linear",
+        "logarithmic": "Logarithmic"
+    },
+    "AxisCrosses": {
+        "automatic": "Automatic",
+        "maximum": "Maximum",
+        "minimum": "Minimum",
+        "custom": "Custom"
+    },
+    "AxisTickMark": {
+        "none": "None",
+        "cross": "Cross",
+        "inside": "Inside",
+        "outside": "Outside"
+    },
+    "AxisTickLabelPosition": {
+        "nextToAxis": "NextToAxis",
+        "high": "High",
+        "low": "Low",
+        "none": "None"
+    },
+    "TrendlineType": {
+        "linear": "Linear",
+        "exponential": "Exponential",
+        "logarithmic": "Logarithmic",
+        "movingAverage": "MovingAverage",
+        "polynomial": "Polynomial",
+        "power": "Power"
+    },
+    "ChartAxisType": {
+        "invalid": "Invalid",
+        "category": "Category",
+        "value": "Value",
+        "series": "Series"
+    },
+    "ChartAxisGroup": {
+        "primary": "Primary",
+        "secondary": "Secondary"
+    },
+    "ChartAxisScaleType": {
+        "linear": "Linear",
+        "logarithmic": "Logarithmic"
+    },
+    "ChartAxisPosition": {
+        "automatic": "Automatic",
+        "maximum": "Maximum",
+        "minimum": "Minimum",
+        "custom": "Custom"
+    },
+    "ChartAxisTickMark": {
+        "none": "None",
+        "cross": "Cross",
+        "inside": "Inside",
+        "outside": "Outside"
+    },
+    "CalculationState": {
+        "done": "Done",
+        "calculating": "Calculating",
+        "pending": "Pending"
+    },
+    "ChartAxisTickLabelPosition": {
+        "nextToAxis": "NextToAxis",
+        "high": "High",
+        "low": "Low",
+        "none": "None"
+    },
+    "ChartAxisDisplayUnit": {
+        "none": "None",
+        "hundreds": "Hundreds",
+        "thousands": "Thousands",
+        "tenThousands": "TenThousands",
+        "hundredThousands": "HundredThousands",
+        "millions": "Millions",
+        "tenMillions": "TenMillions",
+        "hundredMillions": "HundredMillions",
+        "billions": "Billions",
+        "trillions": "Trillions",
+        "custom": "Custom"
+    },
+    "ChartAxisTimeUnit": {
+        "days": "Days",
+        "months": "Months",
+        "years": "Years"
+    },
+    "ChartBoxQuartileCalculation": {
+        "inclusive": "Inclusive",
+        "exclusive": "Exclusive"
+    },
+    "ChartAxisCategoryType": {
+        "automatic": "Automatic",
+        "textAxis": "TextAxis",
+        "dateAxis": "DateAxis"
+    },
+    "ChartBinType": {
+        "category": "Category",
+        "auto": "Auto",
+        "binWidth": "BinWidth",
+        "binCount": "BinCount"
+    },
+    "ChartLineStyle": {
+        "none": "None",
+        "continuous": "Continuous",
+        "dash": "Dash",
+        "dashDot": "DashDot",
+        "dashDotDot": "DashDotDot",
+        "dot": "Dot",
+        "grey25": "Grey25",
+        "grey50": "Grey50",
+        "grey75": "Grey75",
+        "automatic": "Automatic",
+        "roundDot": "RoundDot"
+    },
+    "ChartDataLabelPosition": {
+        "invalid": "Invalid",
+        "none": "None",
+        "center": "Center",
+        "insideEnd": "InsideEnd",
+        "insideBase": "InsideBase",
+        "outsideEnd": "OutsideEnd",
+        "left": "Left",
+        "right": "Right",
+        "top": "Top",
+        "bottom": "Bottom",
+        "bestFit": "BestFit",
+        "callout": "Callout"
+    },
+    "ChartErrorBarsInclude": {
+        "both": "Both",
+        "minusValues": "MinusValues",
+        "plusValues": "PlusValues"
+    },
+    "ChartErrorBarsType": {
+        "fixedValue": "FixedValue",
+        "percent": "Percent",
+        "stDev": "StDev",
+        "stError": "StError",
+        "custom": "Custom"
+    },
+    "ChartMapAreaLevel": {
+        "automatic": "Automatic",
+        "dataOnly": "DataOnly",
+        "city": "City",
+        "county": "County",
+        "state": "State",
+        "country": "Country",
+        "continent": "Continent",
+        "world": "World"
+    },
+    "ChartGradientStyle": {
+        "twoPhaseColor": "TwoPhaseColor",
+        "threePhaseColor": "ThreePhaseColor"
+    },
+    "ChartGradientStyleType": {
+        "extremeValue": "ExtremeValue",
+        "number": "Number",
+        "percent": "Percent"
+    },
+    "ChartTitlePosition": {
+        "automatic": "Automatic",
+        "top": "Top",
+        "bottom": "Bottom",
+        "left": "Left",
+        "right": "Right"
+    },
+    "ChartLegendPosition": {
+        "invalid": "Invalid",
+        "top": "Top",
+        "bottom": "Bottom",
+        "left": "Left",
+        "right": "Right",
+        "corner": "Corner",
+        "custom": "Custom"
+    },
+    "ChartMarkerStyle": {
+        "invalid": "Invalid",
+        "automatic": "Automatic",
+        "none": "None",
+        "square": "Square",
+        "diamond": "Diamond",
+        "triangle": "Triangle",
+        "x": "X",
+        "star": "Star",
+        "dot": "Dot",
+        "dash": "Dash",
+        "circle": "Circle",
+        "plus": "Plus",
+        "picture": "Picture"
+    },
+    "ChartPlotAreaPosition": {
+        "automatic": "Automatic",
+        "custom": "Custom"
+    },
+    "ChartMapLabelStrategy": {
+        "none": "None",
+        "bestFit": "BestFit",
+        "showAll": "ShowAll"
+    },
+    "ChartMapProjectionType": {
+        "automatic": "Automatic",
+        "mercator": "Mercator",
+        "miller": "Miller",
+        "robinson": "Robinson",
+        "albers": "Albers"
+    },
+    "ChartParentLabelStrategy": {
+        "none": "None",
+        "banner": "Banner",
+        "overlapping": "Overlapping"
+    },
+    "ChartSeriesBy": {
+        "auto": "Auto",
+        "columns": "Columns",
+        "rows": "Rows"
+    },
+    "ChartTextHorizontalAlignment": {
+        "center": "Center",
+        "left": "Left",
+        "right": "Right",
+        "justify": "Justify",
+        "distributed": "Distributed"
+    },
+    "ChartTextVerticalAlignment": {
+        "center": "Center",
+        "bottom": "Bottom",
+        "top": "Top",
+        "justify": "Justify",
+        "distributed": "Distributed"
+    },
+    "ChartTickLabelAlignment": {
+        "center": "Center",
+        "left": "Left",
+        "right": "Right"
+    },
+    "ChartType": {
+        "invalid": "Invalid",
+        "columnClustered": "ColumnClustered",
+        "columnStacked": "ColumnStacked",
+        "columnStacked100": "ColumnStacked100",
+        "_3DColumnClustered": "3DColumnClustered",
+        "_3DColumnStacked": "3DColumnStacked",
+        "_3DColumnStacked100": "3DColumnStacked100",
+        "barClustered": "BarClustered",
+        "barStacked": "BarStacked",
+        "barStacked100": "BarStacked100",
+        "_3DBarClustered": "3DBarClustered",
+        "_3DBarStacked": "3DBarStacked",
+        "_3DBarStacked100": "3DBarStacked100",
+        "lineStacked": "LineStacked",
+        "lineStacked100": "LineStacked100",
+        "lineMarkers": "LineMarkers",
+        "lineMarkersStacked": "LineMarkersStacked",
+        "lineMarkersStacked100": "LineMarkersStacked100",
+        "pieOfPie": "PieOfPie",
+        "pieExploded": "PieExploded",
+        "_3DPieExploded": "3DPieExploded",
+        "barOfPie": "BarOfPie",
+        "xyscatterSmooth": "XYScatterSmooth",
+        "xyscatterSmoothNoMarkers": "XYScatterSmoothNoMarkers",
+        "xyscatterLines": "XYScatterLines",
+        "xyscatterLinesNoMarkers": "XYScatterLinesNoMarkers",
+        "areaStacked": "AreaStacked",
+        "areaStacked100": "AreaStacked100",
+        "_3DAreaStacked": "3DAreaStacked",
+        "_3DAreaStacked100": "3DAreaStacked100",
+        "doughnutExploded": "DoughnutExploded",
+        "radarMarkers": "RadarMarkers",
+        "radarFilled": "RadarFilled",
+        "surface": "Surface",
+        "surfaceWireframe": "SurfaceWireframe",
+        "surfaceTopView": "SurfaceTopView",
+        "surfaceTopViewWireframe": "SurfaceTopViewWireframe",
+        "bubble": "Bubble",
+        "bubble3DEffect": "Bubble3DEffect",
+        "stockHLC": "StockHLC",
+        "stockOHLC": "StockOHLC",
+        "stockVHLC": "StockVHLC",
+        "stockVOHLC": "StockVOHLC",
+        "cylinderColClustered": "CylinderColClustered",
+        "cylinderColStacked": "CylinderColStacked",
+        "cylinderColStacked100": "CylinderColStacked100",
+        "cylinderBarClustered": "CylinderBarClustered",
+        "cylinderBarStacked": "CylinderBarStacked",
+        "cylinderBarStacked100": "CylinderBarStacked100",
+        "cylinderCol": "CylinderCol",
+        "coneColClustered": "ConeColClustered",
+        "coneColStacked": "ConeColStacked",
+        "coneColStacked100": "ConeColStacked100",
+        "coneBarClustered": "ConeBarClustered",
+        "coneBarStacked": "ConeBarStacked",
+        "coneBarStacked100": "ConeBarStacked100",
+        "coneCol": "ConeCol",
+        "pyramidColClustered": "PyramidColClustered",
+        "pyramidColStacked": "PyramidColStacked",
+        "pyramidColStacked100": "PyramidColStacked100",
+        "pyramidBarClustered": "PyramidBarClustered",
+        "pyramidBarStacked": "PyramidBarStacked",
+        "pyramidBarStacked100": "PyramidBarStacked100",
+        "pyramidCol": "PyramidCol",
+        "_3DColumn": "3DColumn",
+        "line": "Line",
+        "_3DLine": "3DLine",
+        "_3DPie": "3DPie",
+        "pie": "Pie",
+        "xyscatter": "XYScatter",
+        "_3DArea": "3DArea",
+        "area": "Area",
+        "doughnut": "Doughnut",
+        "radar": "Radar",
+        "histogram": "Histogram",
+        "boxwhisker": "Boxwhisker",
+        "pareto": "Pareto",
+        "regionMap": "RegionMap",
+        "treemap": "Treemap",
+        "waterfall": "Waterfall",
+        "sunburst": "Sunburst",
+        "funnel": "Funnel"
+    },
+    "ChartUnderlineStyle": {
+        "none": "None",
+        "single": "Single"
+    },
+    "ChartDisplayBlanksAs": {
+        "notPlotted": "NotPlotted",
+        "zero": "Zero",
+        "interplotted": "Interplotted"
+    },
+    "ChartPlotBy": {
+        "rows": "Rows",
+        "columns": "Columns"
+    },
+    "ChartSplitType": {
+        "splitByPosition": "SplitByPosition",
+        "splitByValue": "SplitByValue",
+        "splitByPercentValue": "SplitByPercentValue",
+        "splitByCustomSplit": "SplitByCustomSplit"
+    },
+    "ChartColorScheme": {
+        "colorfulPalette1": "ColorfulPalette1",
+        "colorfulPalette2": "ColorfulPalette2",
+        "colorfulPalette3": "ColorfulPalette3",
+        "colorfulPalette4": "ColorfulPalette4",
+        "monochromaticPalette1": "MonochromaticPalette1",
+        "monochromaticPalette2": "MonochromaticPalette2",
+        "monochromaticPalette3": "MonochromaticPalette3",
+        "monochromaticPalette4": "MonochromaticPalette4",
+        "monochromaticPalette5": "MonochromaticPalette5",
+        "monochromaticPalette6": "MonochromaticPalette6",
+        "monochromaticPalette7": "MonochromaticPalette7",
+        "monochromaticPalette8": "MonochromaticPalette8",
+        "monochromaticPalette9": "MonochromaticPalette9",
+        "monochromaticPalette10": "MonochromaticPalette10",
+        "monochromaticPalette11": "MonochromaticPalette11",
+        "monochromaticPalette12": "MonochromaticPalette12",
+        "monochromaticPalette13": "MonochromaticPalette13"
+    },
+    "ChartTrendlineType": {
+        "linear": "Linear",
+        "exponential": "Exponential",
+        "logarithmic": "Logarithmic",
+        "movingAverage": "MovingAverage",
+        "polynomial": "Polynomial",
+        "power": "Power"
+    },
+    "ShapeZOrder": {
+        "bringToFront": "BringToFront",
+        "bringForward": "BringForward",
+        "sendToBack": "SendToBack",
+        "sendBackward": "SendBackward"
+    },
+    "ShapeType": {
+        "unsupported": "Unsupported",
+        "image": "Image",
+        "geometricShape": "GeometricShape",
+        "group": "Group",
+        "line": "Line"
+    },
+    "ShapeScaleType": {
+        "currentSize": "CurrentSize",
+        "originalSize": "OriginalSize"
+    },
+    "ShapeScaleFrom": {
+        "scaleFromTopLeft": "ScaleFromTopLeft",
+        "scaleFromMiddle": "ScaleFromMiddle",
+        "scaleFromBottomRight": "ScaleFromBottomRight"
+    },
+    "ShapeFillType": {
+        "noFill": "NoFill",
+        "solid": "Solid",
+        "gradient": "Gradient",
+        "pattern": "Pattern",
+        "pictureAndTexture": "PictureAndTexture",
+        "mixed": "Mixed"
+    },
+    "ShapeFontUnderlineStyle": {
+        "none": "None",
+        "single": "Single",
+        "double": "Double",
+        "heavy": "Heavy",
+        "dotted": "Dotted",
+        "dottedHeavy": "DottedHeavy",
+        "dash": "Dash",
+        "dashHeavy": "DashHeavy",
+        "dashLong": "DashLong",
+        "dashLongHeavy": "DashLongHeavy",
+        "dotDash": "DotDash",
+        "dotDashHeavy": "DotDashHeavy",
+        "dotDotDash": "DotDotDash",
+        "dotDotDashHeavy": "DotDotDashHeavy",
+        "wavy": "Wavy",
+        "wavyHeavy": "WavyHeavy",
+        "wavyDouble": "WavyDouble"
+    },
+    "PictureFormat": {
+        "unknown": "UNKNOWN",
+        "bmp": "BMP",
+        "jpeg": "JPEG",
+        "gif": "GIF",
+        "png": "PNG",
+        "svg": "SVG"
+    },
+    "ShapeLineStyle": {
+        "single": "Single",
+        "thickBetweenThin": "ThickBetweenThin",
+        "thickThin": "ThickThin",
+        "thinThick": "ThinThick",
+        "thinThin": "ThinThin"
+    },
+    "ShapeLineDashStyle": {
+        "dash": "Dash",
+        "dashDot": "DashDot",
+        "dashDotDot": "DashDotDot",
+        "longDash": "LongDash",
+        "longDashDot": "LongDashDot",
+        "roundDot": "RoundDot",
+        "solid": "Solid",
+        "squareDot": "SquareDot",
+        "longDashDotDot": "LongDashDotDot",
+        "systemDash": "SystemDash",
+        "systemDot": "SystemDot",
+        "systemDashDot": "SystemDashDot"
+    },
+    "ArrowheadLength": {
+        "short": "Short",
+        "medium": "Medium",
+        "long": "Long"
+    },
+    "ArrowheadStyle": {
+        "none": "None",
+        "triangle": "Triangle",
+        "stealth": "Stealth",
+        "diamond": "Diamond",
+        "oval": "Oval",
+        "open": "Open"
+    },
+    "ArrowheadWidth": {
+        "narrow": "Narrow",
+        "medium": "Medium",
+        "wide": "Wide"
+    },
+    "BindingType": {
+        "range": "Range",
+        "table": "Table",
+        "text": "Text"
+    },
+    "BorderIndex": {
+        "edgeTop": "EdgeTop",
+        "edgeBottom": "EdgeBottom",
+        "edgeLeft": "EdgeLeft",
+        "edgeRight": "EdgeRight",
+        "insideVertical": "InsideVertical",
+        "insideHorizontal": "InsideHorizontal",
+        "diagonalDown": "DiagonalDown",
+        "diagonalUp": "DiagonalUp"
+    },
+    "BorderLineStyle": {
+        "none": "None",
+        "continuous": "Continuous",
+        "dash": "Dash",
+        "dashDot": "DashDot",
+        "dashDotDot": "DashDotDot",
+        "dot": "Dot",
+        "double": "Double",
+        "slantDashDot": "SlantDashDot"
+    },
+    "BorderWeight": {
+        "hairline": "Hairline",
+        "thin": "Thin",
+        "medium": "Medium",
+        "thick": "Thick"
+    },
+    "CalculationMode": {
+        "automatic": "Automatic",
+        "automaticExceptTables": "AutomaticExceptTables",
+        "manual": "Manual"
+    },
+    "CalculationType": {
+        "recalculate": "Recalculate",
+        "full": "Full",
+        "fullRebuild": "FullRebuild"
+    },
+    "ClearApplyTo": {
+        "all": "All",
+        "formats": "Formats",
+        "contents": "Contents",
+        "hyperlinks": "Hyperlinks",
+        "removeHyperlinks": "RemoveHyperlinks"
+    },
+    "VisualCategory": {
+        "column": "Column",
+        "bar": "Bar",
+        "line": "Line",
+        "area": "Area",
+        "pie": "Pie",
+        "donut": "Donut",
+        "scatter": "Scatter",
+        "bubble": "Bubble",
+        "statistical": "Statistical",
+        "stock": "Stock",
+        "combo": "Combo",
+        "hierarchy": "Hierarchy",
+        "surface": "Surface",
+        "map": "Map",
+        "funnel": "Funnel",
+        "radar": "Radar",
+        "waterfall": "Waterfall",
+        "threeD": "ThreeD",
+        "other": "Other"
+    },
+    "VisualPropertyType": {
+        "object": "Object",
+        "collection": "Collection",
+        "string": "String",
+        "double": "Double",
+        "int": "Int",
+        "bool": "Bool",
+        "enum": "Enum",
+        "color": "Color"
+    },
+    "VisualChangeType": {
+        "dataChange": "DataChange",
+        "propertyChange": "PropertyChange",
+        "genericChange": "GenericChange",
+        "selectionChange": "SelectionChange"
+    },
+    "BoolMetaPropertyType": {
+        "writeOnly": "WriteOnly",
+        "readOnly": "ReadOnly",
+        "hideEntireSubtreeUI": "HideEntireSubtreeUI",
+        "hideMeButShowChildrenUI": "HideMeButShowChildrenUI",
+        "expandableUI": "ExpandableUI",
+        "nextPropOnSameLine": "NextPropOnSameLine",
+        "hideLabel": "HideLabel",
+        "showResetUI": "ShowResetUI",
+        "hasOwnExpandableSection": "HasOwnExpandableSection",
+        "nextPropOnSameLineFOTP": "NextPropOnSameLineFOTP",
+        "showResetUIFOTP": "ShowResetUIFOTP",
+        "untransferable": "Untransferable"
+    },
+    "ConditionalDataBarAxisFormat": {
+        "automatic": "Automatic",
+        "none": "None",
+        "cellMidPoint": "CellMidPoint"
+    },
+    "ConditionalDataBarDirection": {
+        "context": "Context",
+        "leftToRight": "LeftToRight",
+        "rightToLeft": "RightToLeft"
+    },
+    "ConditionalFormatDirection": {
+        "top": "Top",
+        "bottom": "Bottom"
+    },
+    "ConditionalFormatType": {
+        "custom": "Custom",
+        "dataBar": "DataBar",
+        "colorScale": "ColorScale",
+        "iconSet": "IconSet",
+        "topBottom": "TopBottom",
+        "presetCriteria": "PresetCriteria",
+        "containsText": "ContainsText",
+        "cellValue": "CellValue"
+    },
+    "ConditionalFormatRuleType": {
+        "invalid": "Invalid",
+        "automatic": "Automatic",
+        "lowestValue": "LowestValue",
+        "highestValue": "HighestValue",
+        "number": "Number",
+        "percent": "Percent",
+        "formula": "Formula",
+        "percentile": "Percentile"
+    },
+    "ConditionalFormatIconRuleType": {
+        "invalid": "Invalid",
+        "number": "Number",
+        "percent": "Percent",
+        "formula": "Formula",
+        "percentile": "Percentile"
+    },
+    "ConditionalFormatColorCriterionType": {
+        "invalid": "Invalid",
+        "lowestValue": "LowestValue",
+        "highestValue": "HighestValue",
+        "number": "Number",
+        "percent": "Percent",
+        "formula": "Formula",
+        "percentile": "Percentile"
+    },
+    "ConditionalTopBottomCriterionType": {
+        "invalid": "Invalid",
+        "topItems": "TopItems",
+        "topPercent": "TopPercent",
+        "bottomItems": "BottomItems",
+        "bottomPercent": "BottomPercent"
+    },
+    "ConditionalFormatPresetCriterion": {
+        "invalid": "Invalid",
+        "blanks": "Blanks",
+        "nonBlanks": "NonBlanks",
+        "errors": "Errors",
+        "nonErrors": "NonErrors",
+        "yesterday": "Yesterday",
+        "today": "Today",
+        "tomorrow": "Tomorrow",
+        "lastSevenDays": "LastSevenDays",
+        "lastWeek": "LastWeek",
+        "thisWeek": "ThisWeek",
+        "nextWeek": "NextWeek",
+        "lastMonth": "LastMonth",
+        "thisMonth": "ThisMonth",
+        "nextMonth": "NextMonth",
+        "aboveAverage": "AboveAverage",
+        "belowAverage": "BelowAverage",
+        "equalOrAboveAverage": "EqualOrAboveAverage",
+        "equalOrBelowAverage": "EqualOrBelowAverage",
+        "oneStdDevAboveAverage": "OneStdDevAboveAverage",
+        "oneStdDevBelowAverage": "OneStdDevBelowAverage",
+        "twoStdDevAboveAverage": "TwoStdDevAboveAverage",
+        "twoStdDevBelowAverage": "TwoStdDevBelowAverage",
+        "threeStdDevAboveAverage": "ThreeStdDevAboveAverage",
+        "threeStdDevBelowAverage": "ThreeStdDevBelowAverage",
+        "uniqueValues": "UniqueValues",
+        "duplicateValues": "DuplicateValues"
+    },
+    "ConditionalTextOperator": {
+        "invalid": "Invalid",
+        "contains": "Contains",
+        "notContains": "NotContains",
+        "beginsWith": "BeginsWith",
+        "endsWith": "EndsWith"
+    },
+    "ConditionalCellValueOperator": {
+        "invalid": "Invalid",
+        "between": "Between",
+        "notBetween": "NotBetween",
+        "equalTo": "EqualTo",
+        "notEqualTo": "NotEqualTo",
+        "greaterThan": "GreaterThan",
+        "lessThan": "LessThan",
+        "greaterThanOrEqual": "GreaterThanOrEqual",
+        "lessThanOrEqual": "LessThanOrEqual"
+    },
+    "ConditionalIconCriterionOperator": {
+        "invalid": "Invalid",
+        "greaterThan": "GreaterThan",
+        "greaterThanOrEqual": "GreaterThanOrEqual"
+    },
+    "ConditionalRangeBorderIndex": {
+        "edgeTop": "EdgeTop",
+        "edgeBottom": "EdgeBottom",
+        "edgeLeft": "EdgeLeft",
+        "edgeRight": "EdgeRight"
+    },
+    "ConditionalRangeBorderLineStyle": {
+        "none": "None",
+        "continuous": "Continuous",
+        "dash": "Dash",
+        "dashDot": "DashDot",
+        "dashDotDot": "DashDotDot",
+        "dot": "Dot"
+    },
+    "ConditionalRangeFontUnderlineStyle": {
+        "none": "None",
+        "single": "Single",
+        "double": "Double"
+    },
+    "DataValidationType": {
+        "none": "None",
+        "wholeNumber": "WholeNumber",
+        "decimal": "Decimal",
+        "list": "List",
+        "date": "Date",
+        "time": "Time",
+        "textLength": "TextLength",
+        "custom": "Custom",
+        "inconsistent": "Inconsistent",
+        "mixedCriteria": "MixedCriteria"
+    },
+    "DataValidationOperator": {
+        "between": "Between",
+        "notBetween": "NotBetween",
+        "equalTo": "EqualTo",
+        "notEqualTo": "NotEqualTo",
+        "greaterThan": "GreaterThan",
+        "lessThan": "LessThan",
+        "greaterThanOrEqualTo": "GreaterThanOrEqualTo",
+        "lessThanOrEqualTo": "LessThanOrEqualTo"
+    },
+    "DataValidationAlertStyle": {
+        "stop": "Stop",
+        "warning": "Warning",
+        "information": "Information"
+    },
+    "DeleteShiftDirection": {
+        "up": "Up",
+        "left": "Left"
+    },
+    "DynamicFilterCriteria": {
+        "unknown": "Unknown",
+        "aboveAverage": "AboveAverage",
+        "allDatesInPeriodApril": "AllDatesInPeriodApril",
+        "allDatesInPeriodAugust": "AllDatesInPeriodAugust",
+        "allDatesInPeriodDecember": "AllDatesInPeriodDecember",
+        "allDatesInPeriodFebruray": "AllDatesInPeriodFebruray",
+        "allDatesInPeriodJanuary": "AllDatesInPeriodJanuary",
+        "allDatesInPeriodJuly": "AllDatesInPeriodJuly",
+        "allDatesInPeriodJune": "AllDatesInPeriodJune",
+        "allDatesInPeriodMarch": "AllDatesInPeriodMarch",
+        "allDatesInPeriodMay": "AllDatesInPeriodMay",
+        "allDatesInPeriodNovember": "AllDatesInPeriodNovember",
+        "allDatesInPeriodOctober": "AllDatesInPeriodOctober",
+        "allDatesInPeriodQuarter1": "AllDatesInPeriodQuarter1",
+        "allDatesInPeriodQuarter2": "AllDatesInPeriodQuarter2",
+        "allDatesInPeriodQuarter3": "AllDatesInPeriodQuarter3",
+        "allDatesInPeriodQuarter4": "AllDatesInPeriodQuarter4",
+        "allDatesInPeriodSeptember": "AllDatesInPeriodSeptember",
+        "belowAverage": "BelowAverage",
+        "lastMonth": "LastMonth",
+        "lastQuarter": "LastQuarter",
+        "lastWeek": "LastWeek",
+        "lastYear": "LastYear",
+        "nextMonth": "NextMonth",
+        "nextQuarter": "NextQuarter",
+        "nextWeek": "NextWeek",
+        "nextYear": "NextYear",
+        "thisMonth": "ThisMonth",
+        "thisQuarter": "ThisQuarter",
+        "thisWeek": "ThisWeek",
+        "thisYear": "ThisYear",
+        "today": "Today",
+        "tomorrow": "Tomorrow",
+        "yearToDate": "YearToDate",
+        "yesterday": "Yesterday"
+    },
+    "FilterDatetimeSpecificity": {
+        "year": "Year",
+        "month": "Month",
+        "day": "Day",
+        "hour": "Hour",
+        "minute": "Minute",
+        "second": "Second"
+    },
+    "FilterOn": {
+        "bottomItems": "BottomItems",
+        "bottomPercent": "BottomPercent",
+        "cellColor": "CellColor",
+        "dynamic": "Dynamic",
+        "fontColor": "FontColor",
+        "values": "Values",
+        "topItems": "TopItems",
+        "topPercent": "TopPercent",
+        "icon": "Icon",
+        "custom": "Custom"
+    },
+    "FilterOperator": {
+        "and": "And",
+        "or": "Or"
+    },
+    "HorizontalAlignment": {
+        "general": "General",
+        "left": "Left",
+        "center": "Center",
+        "right": "Right",
+        "fill": "Fill",
+        "justify": "Justify",
+        "centerAcrossSelection": "CenterAcrossSelection",
+        "distributed": "Distributed"
+    },
+    "IconSet": {
+        "invalid": "Invalid",
+        "threeArrows": "ThreeArrows",
+        "threeArrowsGray": "ThreeArrowsGray",
+        "threeFlags": "ThreeFlags",
+        "threeTrafficLights1": "ThreeTrafficLights1",
+        "threeTrafficLights2": "ThreeTrafficLights2",
+        "threeSigns": "ThreeSigns",
+        "threeSymbols": "ThreeSymbols",
+        "threeSymbols2": "ThreeSymbols2",
+        "fourArrows": "FourArrows",
+        "fourArrowsGray": "FourArrowsGray",
+        "fourRedToBlack": "FourRedToBlack",
+        "fourRating": "FourRating",
+        "fourTrafficLights": "FourTrafficLights",
+        "fiveArrows": "FiveArrows",
+        "fiveArrowsGray": "FiveArrowsGray",
+        "fiveRating": "FiveRating",
+        "fiveQuarters": "FiveQuarters",
+        "threeStars": "ThreeStars",
+        "threeTriangles": "ThreeTriangles",
+        "fiveBoxes": "FiveBoxes"
+    },
+    "ImageFittingMode": {
+        "fit": "Fit",
+        "fitAndCenter": "FitAndCenter",
+        "fill": "Fill"
+    },
+    "InsertShiftDirection": {
+        "down": "Down",
+        "right": "Right"
+    },
+    "NamedItemScope": {
+        "worksheet": "Worksheet",
+        "workbook": "Workbook"
+    },
+    "NamedItemType": {
+        "string": "String",
+        "integer": "Integer",
+        "double": "Double",
+        "boolean": "Boolean",
+        "range": "Range",
+        "error": "Error",
+        "array": "Array"
+    },
+    "RangeUnderlineStyle": {
+        "none": "None",
+        "single": "Single",
+        "double": "Double",
+        "singleAccountant": "SingleAccountant",
+        "doubleAccountant": "DoubleAccountant"
+    },
+    "SheetVisibility": {
+        "visible": "Visible",
+        "hidden": "Hidden",
+        "veryHidden": "VeryHidden"
+    },
+    "RangeValueType": {
+        "unknown": "Unknown",
+        "empty": "Empty",
+        "string": "String",
+        "integer": "Integer",
+        "double": "Double",
+        "boolean": "Boolean",
+        "error": "Error",
+        "richValue": "RichValue"
+    },
+    "SearchDirection": {
+        "forward": "Forward",
+        "backwards": "Backwards"
+    },
+    "SortOrientation": {
+        "rows": "Rows",
+        "columns": "Columns"
+    },
+    "SortOn": {
+        "value": "Value",
+        "cellColor": "CellColor",
+        "fontColor": "FontColor",
+        "icon": "Icon"
+    },
+    "SortDataOption": {
+        "normal": "Normal",
+        "textAsNumber": "TextAsNumber"
+    },
+    "SortMethod": {
+        "pinYin": "PinYin",
+        "strokeCount": "StrokeCount"
+    },
+    "VerticalAlignment": {
+        "top": "Top",
+        "center": "Center",
+        "bottom": "Bottom",
+        "justify": "Justify",
+        "distributed": "Distributed"
+    },
+    "DocumentPropertyType": {
+        "number": "Number",
+        "boolean": "Boolean",
+        "date": "Date",
+        "string": "String",
+        "float": "Float"
+    },
+    "EventSource": {
+        "local": "Local",
+        "remote": "Remote"
+    },
+    "DataChangeType": {
+        "unknown": "Unknown",
+        "rangeEdited": "RangeEdited",
+        "rowInserted": "RowInserted",
+        "rowDeleted": "RowDeleted",
+        "columnInserted": "ColumnInserted",
+        "columnDeleted": "ColumnDeleted",
+        "cellInserted": "CellInserted",
+        "cellDeleted": "CellDeleted"
+    },
+    "EventType": {
+        "worksheetChanged": "WorksheetChanged",
+        "worksheetSelectionChanged": "WorksheetSelectionChanged",
+        "worksheetAdded": "WorksheetAdded",
+        "worksheetActivated": "WorksheetActivated",
+        "worksheetDeactivated": "WorksheetDeactivated",
+        "tableChanged": "TableChanged",
+        "tableSelectionChanged": "TableSelectionChanged",
+        "worksheetDeleted": "WorksheetDeleted",
+        "chartAdded": "ChartAdded",
+        "chartActivated": "ChartActivated",
+        "chartDeactivated": "ChartDeactivated",
+        "chartDeleted": "ChartDeleted",
+        "worksheetCalculated": "WorksheetCalculated",
+        "visualSelectionChanged": "VisualSelectionChanged",
+        "agaveVisualUpdate": "AgaveVisualUpdate",
+        "tableAdded": "TableAdded",
+        "tableDeleted": "TableDeleted",
+        "tableFiltered": "TableFiltered",
+        "worksheetFiltered": "WorksheetFiltered",
+        "shapeActivated": "ShapeActivated",
+        "shapeDeactivated": "ShapeDeactivated",
+        "visualChange": "VisualChange",
+        "workbookAutoSaveSettingChanged": "WorkbookAutoSaveSettingChanged",
+        "worksheetFormatChanged": "WorksheetFormatChanged",
+        "wacoperationEvent": "WACOperationEvent",
+        "ribbonCommandExecuted": "RibbonCommandExecuted",
+        "worksheetRowSorted": "WorksheetRowSorted",
+        "worksheetColumnSorted": "WorksheetColumnSorted",
+        "worksheetSingleClicked": "WorksheetSingleClicked",
+        "worksheetRowHiddenChanged": "WorksheetRowHiddenChanged"
+    },
+    "DocumentPropertyItem": {
+        "title": "Title",
+        "subject": "Subject",
+        "author": "Author",
+        "keywords": "Keywords",
+        "comments": "Comments",
+        "template": "Template",
+        "lastAuth": "LastAuth",
+        "revision": "Revision",
+        "appName": "AppName",
+        "lastPrint": "LastPrint",
+        "creation": "Creation",
+        "lastSave": "LastSave",
+        "category": "Category",
+        "format": "Format",
+        "manager": "Manager",
+        "company": "Company"
+    },
+    "SubtotalLocationType": {
+        "atTop": "AtTop",
+        "atBottom": "AtBottom",
+        "off": "Off"
+    },
+    "PivotLayoutType": {
+        "compact": "Compact",
+        "tabular": "Tabular",
+        "outline": "Outline"
+    },
+    "ProtectionSelectionMode": {
+        "normal": "Normal",
+        "unlocked": "Unlocked",
+        "none": "None"
+    },
+    "PageOrientation": {
+        "portrait": "Portrait",
+        "landscape": "Landscape"
+    },
+    "PaperType": {
+        "letter": "Letter",
+        "letterSmall": "LetterSmall",
+        "tabloid": "Tabloid",
+        "ledger": "Ledger",
+        "legal": "Legal",
+        "statement": "Statement",
+        "executive": "Executive",
+        "a3": "A3",
+        "a4": "A4",
+        "a4Small": "A4Small",
+        "a5": "A5",
+        "b4": "B4",
+        "b5": "B5",
+        "folio": "Folio",
+        "quatro": "Quatro",
+        "paper10x14": "Paper10x14",
+        "paper11x17": "Paper11x17",
+        "note": "Note",
+        "envelope9": "Envelope9",
+        "envelope10": "Envelope10",
+        "envelope11": "Envelope11",
+        "envelope12": "Envelope12",
+        "envelope14": "Envelope14",
+        "csheet": "Csheet",
+        "dsheet": "Dsheet",
+        "esheet": "Esheet",
+        "envelopeDL": "EnvelopeDL",
+        "envelopeC5": "EnvelopeC5",
+        "envelopeC3": "EnvelopeC3",
+        "envelopeC4": "EnvelopeC4",
+        "envelopeC6": "EnvelopeC6",
+        "envelopeC65": "EnvelopeC65",
+        "envelopeB4": "EnvelopeB4",
+        "envelopeB5": "EnvelopeB5",
+        "envelopeB6": "EnvelopeB6",
+        "envelopeItaly": "EnvelopeItaly",
+        "envelopeMonarch": "EnvelopeMonarch",
+        "envelopePersonal": "EnvelopePersonal",
+        "fanfoldUS": "FanfoldUS",
+        "fanfoldStdGerman": "FanfoldStdGerman",
+        "fanfoldLegalGerman": "FanfoldLegalGerman"
+    },
+    "ReadingOrder": {
+        "context": "Context",
+        "leftToRight": "LeftToRight",
+        "rightToLeft": "RightToLeft"
+    },
+    "BuiltInStyle": {
+        "normal": "Normal",
+        "comma": "Comma",
+        "currency": "Currency",
+        "percent": "Percent",
+        "wholeComma": "WholeComma",
+        "wholeDollar": "WholeDollar",
+        "hlink": "Hlink",
+        "hlinkTrav": "HlinkTrav",
+        "note": "Note",
+        "warningText": "WarningText",
+        "emphasis1": "Emphasis1",
+        "emphasis2": "Emphasis2",
+        "emphasis3": "Emphasis3",
+        "sheetTitle": "SheetTitle",
+        "heading1": "Heading1",
+        "heading2": "Heading2",
+        "heading3": "Heading3",
+        "heading4": "Heading4",
+        "input": "Input",
+        "output": "Output",
+        "calculation": "Calculation",
+        "checkCell": "CheckCell",
+        "linkedCell": "LinkedCell",
+        "total": "Total",
+        "good": "Good",
+        "bad": "Bad",
+        "neutral": "Neutral",
+        "accent1": "Accent1",
+        "accent1_20": "Accent1_20",
+        "accent1_40": "Accent1_40",
+        "accent1_60": "Accent1_60",
+        "accent2": "Accent2",
+        "accent2_20": "Accent2_20",
+        "accent2_40": "Accent2_40",
+        "accent2_60": "Accent2_60",
+        "accent3": "Accent3",
+        "accent3_20": "Accent3_20",
+        "accent3_40": "Accent3_40",
+        "accent3_60": "Accent3_60",
+        "accent4": "Accent4",
+        "accent4_20": "Accent4_20",
+        "accent4_40": "Accent4_40",
+        "accent4_60": "Accent4_60",
+        "accent5": "Accent5",
+        "accent5_20": "Accent5_20",
+        "accent5_40": "Accent5_40",
+        "accent5_60": "Accent5_60",
+        "accent6": "Accent6",
+        "accent6_20": "Accent6_20",
+        "accent6_40": "Accent6_40",
+        "accent6_60": "Accent6_60",
+        "explanatoryText": "ExplanatoryText"
+    },
+    "PrintErrorType": {
+        "asDisplayed": "AsDisplayed",
+        "blank": "Blank",
+        "dash": "Dash",
+        "notAvailable": "NotAvailable"
+    },
+    "WorksheetPositionType": {
+        "none": "None",
+        "before": "Before",
+        "after": "After",
+        "beginning": "Beginning",
+        "end": "End"
+    },
+    "PrintComments": {
+        "noComments": "NoComments",
+        "endSheet": "EndSheet",
+        "inPlace": "InPlace"
+    },
+    "PrintOrder": {
+        "downThenOver": "DownThenOver",
+        "overThenDown": "OverThenDown"
+    },
+    "PrintMarginUnit": {
+        "points": "Points",
+        "inches": "Inches",
+        "centimeters": "Centimeters"
+    },
+    "HeaderFooterState": {
+        "default": "Default",
+        "firstAndDefault": "FirstAndDefault",
+        "oddAndEven": "OddAndEven",
+        "firstOddAndEven": "FirstOddAndEven"
+    },
+    "AutoFillType": {
+        "fillDefault": "FillDefault",
+        "fillCopy": "FillCopy",
+        "fillSeries": "FillSeries",
+        "fillFormats": "FillFormats",
+        "fillValues": "FillValues",
+        "fillDays": "FillDays",
+        "fillWeekdays": "FillWeekdays",
+        "fillMonths": "FillMonths",
+        "fillYears": "FillYears",
+        "linearTrend": "LinearTrend",
+        "growthTrend": "GrowthTrend",
+        "flashFill": "FlashFill"
+    },
+    "GroupOption": {
+        "byRows": "ByRows",
+        "byColumns": "ByColumns"
+    },
+    "RangeCopyType": {
+        "all": "All",
+        "formulas": "Formulas",
+        "values": "Values",
+        "formats": "Formats"
+    },
+    "LinkedDataTypeState": {
+        "none": "None",
+        "validLinkedData": "ValidLinkedData",
+        "disambiguationNeeded": "DisambiguationNeeded",
+        "brokenLinkedData": "BrokenLinkedData",
+        "fetchingData": "FetchingData"
+    },
+    "GeometricShapeType": {
+        "lineInverse": "LineInverse",
+        "triangle": "Triangle",
+        "rightTriangle": "RightTriangle",
+        "rectangle": "Rectangle",
+        "diamond": "Diamond",
+        "parallelogram": "Parallelogram",
+        "trapezoid": "Trapezoid",
+        "nonIsoscelesTrapezoid": "NonIsoscelesTrapezoid",
+        "pentagon": "Pentagon",
+        "hexagon": "Hexagon",
+        "heptagon": "Heptagon",
+        "octagon": "Octagon",
+        "decagon": "Decagon",
+        "dodecagon": "Dodecagon",
+        "star4": "Star4",
+        "star5": "Star5",
+        "star6": "Star6",
+        "star7": "Star7",
+        "star8": "Star8",
+        "star10": "Star10",
+        "star12": "Star12",
+        "star16": "Star16",
+        "star24": "Star24",
+        "star32": "Star32",
+        "roundRectangle": "RoundRectangle",
+        "round1Rectangle": "Round1Rectangle",
+        "round2SameRectangle": "Round2SameRectangle",
+        "round2DiagonalRectangle": "Round2DiagonalRectangle",
+        "snipRoundRectangle": "SnipRoundRectangle",
+        "snip1Rectangle": "Snip1Rectangle",
+        "snip2SameRectangle": "Snip2SameRectangle",
+        "snip2DiagonalRectangle": "Snip2DiagonalRectangle",
+        "plaque": "Plaque",
+        "ellipse": "Ellipse",
+        "teardrop": "Teardrop",
+        "homePlate": "HomePlate",
+        "chevron": "Chevron",
+        "pieWedge": "PieWedge",
+        "pie": "Pie",
+        "blockArc": "BlockArc",
+        "donut": "Donut",
+        "noSmoking": "NoSmoking",
+        "rightArrow": "RightArrow",
+        "leftArrow": "LeftArrow",
+        "upArrow": "UpArrow",
+        "downArrow": "DownArrow",
+        "stripedRightArrow": "StripedRightArrow",
+        "notchedRightArrow": "NotchedRightArrow",
+        "bentUpArrow": "BentUpArrow",
+        "leftRightArrow": "LeftRightArrow",
+        "upDownArrow": "UpDownArrow",
+        "leftUpArrow": "LeftUpArrow",
+        "leftRightUpArrow": "LeftRightUpArrow",
+        "quadArrow": "QuadArrow",
+        "leftArrowCallout": "LeftArrowCallout",
+        "rightArrowCallout": "RightArrowCallout",
+        "upArrowCallout": "UpArrowCallout",
+        "downArrowCallout": "DownArrowCallout",
+        "leftRightArrowCallout": "LeftRightArrowCallout",
+        "upDownArrowCallout": "UpDownArrowCallout",
+        "quadArrowCallout": "QuadArrowCallout",
+        "bentArrow": "BentArrow",
+        "uturnArrow": "UturnArrow",
+        "circularArrow": "CircularArrow",
+        "leftCircularArrow": "LeftCircularArrow",
+        "leftRightCircularArrow": "LeftRightCircularArrow",
+        "curvedRightArrow": "CurvedRightArrow",
+        "curvedLeftArrow": "CurvedLeftArrow",
+        "curvedUpArrow": "CurvedUpArrow",
+        "curvedDownArrow": "CurvedDownArrow",
+        "swooshArrow": "SwooshArrow",
+        "cube": "Cube",
+        "can": "Can",
+        "lightningBolt": "LightningBolt",
+        "heart": "Heart",
+        "sun": "Sun",
+        "moon": "Moon",
+        "smileyFace": "SmileyFace",
+        "irregularSeal1": "IrregularSeal1",
+        "irregularSeal2": "IrregularSeal2",
+        "foldedCorner": "FoldedCorner",
+        "bevel": "Bevel",
+        "frame": "Frame",
+        "halfFrame": "HalfFrame",
+        "corner": "Corner",
+        "diagonalStripe": "DiagonalStripe",
+        "chord": "Chord",
+        "arc": "Arc",
+        "leftBracket": "LeftBracket",
+        "rightBracket": "RightBracket",
+        "leftBrace": "LeftBrace",
+        "rightBrace": "RightBrace",
+        "bracketPair": "BracketPair",
+        "bracePair": "BracePair",
+        "callout1": "Callout1",
+        "callout2": "Callout2",
+        "callout3": "Callout3",
+        "accentCallout1": "AccentCallout1",
+        "accentCallout2": "AccentCallout2",
+        "accentCallout3": "AccentCallout3",
+        "borderCallout1": "BorderCallout1",
+        "borderCallout2": "BorderCallout2",
+        "borderCallout3": "BorderCallout3",
+        "accentBorderCallout1": "AccentBorderCallout1",
+        "accentBorderCallout2": "AccentBorderCallout2",
+        "accentBorderCallout3": "AccentBorderCallout3",
+        "wedgeRectCallout": "WedgeRectCallout",
+        "wedgeRRectCallout": "WedgeRRectCallout",
+        "wedgeEllipseCallout": "WedgeEllipseCallout",
+        "cloudCallout": "CloudCallout",
+        "cloud": "Cloud",
+        "ribbon": "Ribbon",
+        "ribbon2": "Ribbon2",
+        "ellipseRibbon": "EllipseRibbon",
+        "ellipseRibbon2": "EllipseRibbon2",
+        "leftRightRibbon": "LeftRightRibbon",
+        "verticalScroll": "VerticalScroll",
+        "horizontalScroll": "HorizontalScroll",
+        "wave": "Wave",
+        "doubleWave": "DoubleWave",
+        "plus": "Plus",
+        "flowChartProcess": "FlowChartProcess",
+        "flowChartDecision": "FlowChartDecision",
+        "flowChartInputOutput": "FlowChartInputOutput",
+        "flowChartPredefinedProcess": "FlowChartPredefinedProcess",
+        "flowChartInternalStorage": "FlowChartInternalStorage",
+        "flowChartDocument": "FlowChartDocument",
+        "flowChartMultidocument": "FlowChartMultidocument",
+        "flowChartTerminator": "FlowChartTerminator",
+        "flowChartPreparation": "FlowChartPreparation",
+        "flowChartManualInput": "FlowChartManualInput",
+        "flowChartManualOperation": "FlowChartManualOperation",
+        "flowChartConnector": "FlowChartConnector",
+        "flowChartPunchedCard": "FlowChartPunchedCard",
+        "flowChartPunchedTape": "FlowChartPunchedTape",
+        "flowChartSummingJunction": "FlowChartSummingJunction",
+        "flowChartOr": "FlowChartOr",
+        "flowChartCollate": "FlowChartCollate",
+        "flowChartSort": "FlowChartSort",
+        "flowChartExtract": "FlowChartExtract",
+        "flowChartMerge": "FlowChartMerge",
+        "flowChartOfflineStorage": "FlowChartOfflineStorage",
+        "flowChartOnlineStorage": "FlowChartOnlineStorage",
+        "flowChartMagneticTape": "FlowChartMagneticTape",
+        "flowChartMagneticDisk": "FlowChartMagneticDisk",
+        "flowChartMagneticDrum": "FlowChartMagneticDrum",
+        "flowChartDisplay": "FlowChartDisplay",
+        "flowChartDelay": "FlowChartDelay",
+        "flowChartAlternateProcess": "FlowChartAlternateProcess",
+        "flowChartOffpageConnector": "FlowChartOffpageConnector",
+        "actionButtonBlank": "ActionButtonBlank",
+        "actionButtonHome": "ActionButtonHome",
+        "actionButtonHelp": "ActionButtonHelp",
+        "actionButtonInformation": "ActionButtonInformation",
+        "actionButtonForwardNext": "ActionButtonForwardNext",
+        "actionButtonBackPrevious": "ActionButtonBackPrevious",
+        "actionButtonEnd": "ActionButtonEnd",
+        "actionButtonBeginning": "ActionButtonBeginning",
+        "actionButtonReturn": "ActionButtonReturn",
+        "actionButtonDocument": "ActionButtonDocument",
+        "actionButtonSound": "ActionButtonSound",
+        "actionButtonMovie": "ActionButtonMovie",
+        "gear6": "Gear6",
+        "gear9": "Gear9",
+        "funnel": "Funnel",
+        "mathPlus": "MathPlus",
+        "mathMinus": "MathMinus",
+        "mathMultiply": "MathMultiply",
+        "mathDivide": "MathDivide",
+        "mathEqual": "MathEqual",
+        "mathNotEqual": "MathNotEqual",
+        "cornerTabs": "CornerTabs",
+        "squareTabs": "SquareTabs",
+        "plaqueTabs": "PlaqueTabs",
+        "chartX": "ChartX",
+        "chartStar": "ChartStar",
+        "chartPlus": "ChartPlus"
+    },
+    "ConnectorType": {
+        "straight": "Straight",
+        "elbow": "Elbow",
+        "curve": "Curve"
+    },
+    "ContentType": {
+        "plain": "Plain",
+        "mention": "Mention"
+    },
+    "SpecialCellType": {
+        "conditionalFormats": "ConditionalFormats",
+        "dataValidations": "DataValidations",
+        "blanks": "Blanks",
+        "constants": "Constants",
+        "formulas": "Formulas",
+        "sameConditionalFormat": "SameConditionalFormat",
+        "sameDataValidation": "SameDataValidation",
+        "visible": "Visible"
+    },
+    "SpecialCellValueType": {
+        "all": "All",
+        "errors": "Errors",
+        "errorsLogical": "ErrorsLogical",
+        "errorsNumbers": "ErrorsNumbers",
+        "errorsText": "ErrorsText",
+        "errorsLogicalNumber": "ErrorsLogicalNumber",
+        "errorsLogicalText": "ErrorsLogicalText",
+        "errorsNumberText": "ErrorsNumberText",
+        "logical": "Logical",
+        "logicalNumbers": "LogicalNumbers",
+        "logicalText": "LogicalText",
+        "logicalNumbersText": "LogicalNumbersText",
+        "numbers": "Numbers",
+        "numbersText": "NumbersText",
+        "text": "Text"
+    },
+    "Placement": {
+        "twoCell": "TwoCell",
+        "oneCell": "OneCell",
+        "absolute": "Absolute"
+    },
+    "FillPattern": {
+        "none": "None",
+        "solid": "Solid",
+        "gray50": "Gray50",
+        "gray75": "Gray75",
+        "gray25": "Gray25",
+        "horizontal": "Horizontal",
+        "vertical": "Vertical",
+        "down": "Down",
+        "up": "Up",
+        "checker": "Checker",
+        "semiGray75": "SemiGray75",
+        "lightHorizontal": "LightHorizontal",
+        "lightVertical": "LightVertical",
+        "lightDown": "LightDown",
+        "lightUp": "LightUp",
+        "grid": "Grid",
+        "crissCross": "CrissCross",
+        "gray16": "Gray16",
+        "gray8": "Gray8",
+        "linearGradient": "LinearGradient",
+        "rectangularGradient": "RectangularGradient"
+    },
+    "ShapeTextHorizontalAlignment": {
+        "left": "Left",
+        "center": "Center",
+        "right": "Right",
+        "justify": "Justify",
+        "justifyLow": "JustifyLow",
+        "distributed": "Distributed",
+        "thaiDistributed": "ThaiDistributed"
+    },
+    "ShapeTextVerticalAlignment": {
+        "top": "Top",
+        "middle": "Middle",
+        "bottom": "Bottom",
+        "justified": "Justified",
+        "distributed": "Distributed"
+    },
+    "ShapeTextVerticalOverflow": {
+        "overflow": "Overflow",
+        "ellipsis": "Ellipsis",
+        "clip": "Clip"
+    },
+    "ShapeTextHorizontalOverflow": {
+        "overflow": "Overflow",
+        "clip": "Clip"
+    },
+    "ShapeTextReadingOrder": {
+        "leftToRight": "LeftToRight",
+        "rightToLeft": "RightToLeft"
+    },
+    "ShapeTextOrientation": {
+        "horizontal": "Horizontal",
+        "vertical": "Vertical",
+        "vertical270": "Vertical270",
+        "wordArtVertical": "WordArtVertical",
+        "eastAsianVertical": "EastAsianVertical",
+        "mongolianVertical": "MongolianVertical",
+        "wordArtVerticalRTL": "WordArtVerticalRTL"
+    },
+    "ShapeAutoSize": {
+        "autoSizeNone": "AutoSizeNone",
+        "autoSizeTextToFitShape": "AutoSizeTextToFitShape",
+        "autoSizeShapeToFitText": "AutoSizeShapeToFitText",
+        "autoSizeMixed": "AutoSizeMixed"
+    },
+    "CloseBehavior": {
+        "save": "Save",
+        "skipSave": "SkipSave"
+    },
+    "SaveBehavior": {
+        "save": "Save",
+        "prompt": "Prompt"
+    },
+    "SlicerSortType": {
+        "dataSourceOrder": "DataSourceOrder",
+        "ascending": "Ascending",
+        "descending": "Descending"
+    },
+    "RibbonTab": {
+        "others": "Others",
+        "home": "Home",
+        "insert": "Insert",
+        "draw": "Draw",
+        "pageLayout": "PageLayout",
+        "formulas": "Formulas",
+        "data": "Data",
+        "review": "Review",
+        "view": "View",
+        "developer": "Developer",
+        "addIns": "AddIns",
+        "help": "Help"
+    },
+    "ErrorCodes": {
+        "accessDenied": "AccessDenied",
+        "apiNotFound": "ApiNotFound",
+        "conflict": "Conflict",
+        "generalException": "GeneralException",
+        "insertDeleteConflict": "InsertDeleteConflict",
+        "invalidArgument": "InvalidArgument",
+        "invalidBinding": "InvalidBinding",
+        "invalidOperation": "InvalidOperation",
+        "invalidReference": "InvalidReference",
+        "invalidSelection": "InvalidSelection",
+        "itemAlreadyExists": "ItemAlreadyExists",
+        "itemNotFound": "ItemNotFound",
+        "nonBlankCellOffSheet": "NonBlankCellOffSheet",
+        "notImplemented": "NotImplemented",
+        "rangeExceedsLimit": "RangeExceedsLimit",
+        "requestAborted": "RequestAborted",
+        "unsupportedOperation": "UnsupportedOperation",
+        "invalidOperationInCellEditMode": "InvalidOperationInCellEditMode"
+    },
+    "Interfaces": {}
+}
