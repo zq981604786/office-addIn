@@ -1,12 +1,13 @@
 <template lang="pug">
   div
-    .myCharts(:id="'chart' + this.echartsId" :class="[isActive?'myChartsLook':'myChartsOutline']" @click="todraw")
+    .myCharts(:id="'chart' + this.echartsId" :class="[isActive?'myChartsLook':'myChartsOutline']" @click="tojump")
+    //- .myCharts(:id="'chart1' + this.echartsId" :class="[isActive?'look':'look']" )
     //- el-button( @click="handleDownload" style="display:flex;margin:0 auto" v-if="isshow") 下载数据
 </template>
 
 <script>
 import echarts from 'echarts'
-import axios from 'axios'
+// import axios from 'axios'
 import Enum from '@/apis/enum'
 export default {
   name: 'drawSziePro',
@@ -88,14 +89,18 @@ export default {
         ]
       }
       if (this.isActive) {
-        option.toolbox.feature.saveAsImage = {}
+        // option.toolbox.feature.saveAsImage = {}
       }
       const myChart = echarts.init(document.getElementById('chart' + this.echartsId))
+      const myChart1 = echarts.init(document.getElementById('chart1' + this.echartsId))
       this.$nextTick(() => {
         // document.getElementById('chart' + this.echartsId).style.height = 400 + 'px'
         // myChart.resize()
+        window.addEventListener('resize', () => { myChart.resize() })
         myChart.setOption(option, true)
+        myChart1.setOption(option, true)
         this.dataUrl = myChart.getDataURL()
+        // this.todraw()
         // this.getUrl()
       })
     },
@@ -282,7 +287,7 @@ export default {
         }
       }
       if (this.isActive) {
-        option.toolbox.feature.saveAsImage = {}
+        // option.toolbox.feature.saveAsImage = {}
       }
       const myChart = echarts.init(document.getElementById('chart' + this.echartsId))
       this.$nextTick(() => {
@@ -305,32 +310,24 @@ export default {
       link.setAttribute('download', filename + '.csv')
       link.click()
     },
+    tojump () {
+      this.$router.push({ name: 'About' })
+    },
     todraw () {
-      const myChart = echarts.init(document.getElementById('chart' + this.echartsId))
+      const myChart = echarts.init(document.getElementById('chart1' + this.echartsId))
       this.$nextTick(() => {
-        var url = myChart.getDataURL().toString('base64')
+        const pixe = window.devicePixelRatio
+        var url = myChart.getDataURL({ pixelRatio: pixe }).toString('base64')
         url = url.split('base64')[1]
-
-        console.log(url)
         window.Office.context.document.setSelectedDataAsync(url,
           { coercionType: window.Office.CoercionType.Image },
           (asyncResult) => {
 
           })
       })
-
       // console.log('111111111111111111', myChart.getDataURL())
     }
   },
-  // mounted () {
-  //   if (this.dialogData.products && this.dialogData.products.length) {
-  //     if (this.dialogData.products[0].kind === 0) {
-  //       this.drawPie()
-  //     } else {
-  //       this.drawBar()
-  //     }
-  //   }
-  // },
   watch: {
     dialogData: {
       handler: function (val) {
@@ -354,11 +351,16 @@ export default {
 
 <style scope>
 .myChartsLook {
-  height: 55vh;
+  height: 142px;
   width: 100%;
 }
 .myChartsOutline {
-  height: 24vh;
-  width: 247px;
+  height: 142px;
+  width: 100%;
+}
+.look{
+  height: 350px;
+  width: 550px;
+  opacity: 0;
 }
 </style>
