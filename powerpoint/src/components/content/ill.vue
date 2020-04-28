@@ -22,7 +22,7 @@ export default {
     handleClick () {
       const url = 'https://oss.leadleo.com/leadleo_www/2020/02/04/e81e0160-4714-11ea-9bc4-4b346dec7b8a.jpg?x-oss-process=image/resize,w_440'
       axios.get('/api/', { params: url }).then(doc => {
-        console.log(doc)
+        console.log(doc.data)
         if (window.Office.context.document.setSelectedDataAsync) {
           window.Office.context.document.setSelectedDataAsync(doc.data,
             { coercionType: window.Office.CoercionType.Image },
