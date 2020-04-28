@@ -1,20 +1,19 @@
 <template lang="pug">
   .office-details
-    header.office-header-details
-      .arrow-nav
-      .header-title {{ title }}
+    header.header
+      img.back(src="@/assets/back.png")
+      .title {{title}}
     main
       slot
     footer.office-footer-details
       .introduction
         .introduction-left 简介信息
         .introduction-right
-          //- b-form-checkbox 应用
-        .img-select.fx()
+        .img-select.fx
           .select-border.center(@click="handleSelectSize" style="margin: 2px 10px 0px 0;")
             img.check(src="@/assets/check.png" v-if="isSizeChoose")
           p.select-txt 应用
-      div.introduction-text 此处显示的信息是图说的段落文字， 进行全部显示
+      div.introduction-text {{describe}}
       b-button.introduction-insert 插入文档
       .introduction-footer
         .introduction-logo
@@ -28,6 +27,10 @@ export default {
     title: {
       type: String,
       default: '数说'
+    },
+    describe: {
+      type: String,
+      default: '此处显示的信息是图说的段落文字， 进行全部显示。'
     }
   },
   data () {
@@ -44,20 +47,7 @@ export default {
 </script>
 
 <style>
-.office-header-details  {
-  height: 53px;
-  width: 100%;
-  padding-top: 7px;
-  padding-left: 10px;
-  border-bottom: 2px solid rgba(240,240,240,1);
-}
-.arrow-nav {
-  margin-top: 3px;
-  width: 14px;
-  height: 28px;
-  background: url('../assets/back.png') no-repeat center;
-  float: left;
-}
+
 .header-title {
   text-align: center;
   font-size: 18px;
@@ -143,5 +133,30 @@ export default {
 }
 .fx{
   display: flex;
+}
+.header{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 53px;
+  position: relative;
+  border-bottom: 2px solid rgba(240,240,240,1);
+  margin-bottom: 14px;
+}
+.back{
+  height:16px;
+  width: 9px;
+  position: absolute;
+  left: 19px;
+}
+.title{
+  text-align: center;
+  height:25px;
+  width: 36px;
+  font-size:18px;
+  font-family:PingFangSC-Medium,PingFang SC;
+  font-weight:500;
+  color:rgba(51,51,51,1);
+  line-height:25px;
 }
 </style>

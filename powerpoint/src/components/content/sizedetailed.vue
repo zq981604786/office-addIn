@@ -1,16 +1,26 @@
 <template lang="pug">
   div
-    div(style='height: 206px;')
+    div(style='height: 206px;border-bottom: 4px solid rgba(240,240,240,1);')
       .size-img.fx
         .img-name.fx(style='padding-left: 19px;')
           img.slide(src="@/assets/slide.png" )
           p.slide-txt 图片
         .img-select.fx(style='padding-right: 19px;')
-          .select-border.center(@click="handleSelectSize1")
-            img.check(src="@/assets/check.png" v-if="isSizeChoose1")
+          .select-border.center(@click="handleSelectSize")
+            img.check(src="@/assets/check.png" v-if="isSizeChoose")
           p.select-txt 应用
       .size(style='height:142px')
         drawSize(:dialogData="dialogData" ref="drawSziePro" :isshow="true")
+    div(style='height: 204px;margin-top:14px;border-bottom: 4px solid rgba(240,240,240,1);')
+      .size-img.fx
+        .img-name.fx(style='padding-left: 19px;')
+          img.slide(src="@/assets/slide.png" )
+          p.slide-txt(style='width:75px') 配色方案
+    div(style='height: 268px;margin-top:14px')
+      .size-img.fx
+        .img-name.fx(style='padding-left: 19px;')
+          img.slide(src="@/assets/slide.png" )
+          p.slide-txt(style='width:75px') 标题
 </template>
 
 <script>
@@ -20,12 +30,12 @@ export default {
   components: { drawSize },
   data () {
     return {
-      isSizeChoose1: false,
+      isSizeChoose: false,
       dialogData: sizepro[0]
     }
   },
   methods: {
-    handleSelectSize1 () {
+    handleSelectSize () {
       this.isSizeChoose = !this.isSizeChoose
       if (this.isSizeChoose) {
         this.$refs.drawSziePro.todraw()

@@ -1,6 +1,5 @@
 <template lang="pug">
   Child
-    span hahaha
     Size
 </template>
 
