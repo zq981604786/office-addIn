@@ -99,6 +99,7 @@ export default {
   margin-top: 18px;
   padding-top: 14px;
   background-color:rgba(248,248,248, .8);
+  margin-bottom: 14px;
 }
 .introduction-footer .introduction-logo {
   width: 46px;
